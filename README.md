@@ -9,12 +9,14 @@ Este script permite verificar si una cuenta de correo electrónico ha sido compr
 
 ## Instalación
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt bash
+```
 ## Uso
 
 Ejecuta el script desde la terminal, indicando el correo a verificar y opcionalmente el nombre del archivo CSV de salida:
 ```bash
-python verificar_correo.py correo@example.com -o salida.csv```
+python verificar_correo.py correo@example.com -o salida.csv
+```
 
 ## Archivos generados
 
@@ -31,7 +33,8 @@ apikey.txt
 registro.log
 reporte.csv
 requirements.txt
-README.md```
+README.md
+```
 
 ## Créditos
 
@@ -44,6 +47,5 @@ Grupo: *062*
 Este proyecto se distribuye con fines educativos. El uso de la API de Have I Been Pwned está sujeto a sus [términos de servicio](https://haveibeenpwned.com/API/v3#AcceptableUse).
 
 ## Contacto
-
 
 Para dudas técnicas o sugerencias, puedes dejar comentarios en el repositorio de GitHub.
